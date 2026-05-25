@@ -67,7 +67,7 @@ Not just a CRUD app — built to handle concurrent booking conflicts, payment ra
 
 ## 💻 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkmilan&theme=dark&hide_border=false&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkmilan&theme=dark&hide_border=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkmilan&theme=dark&hide_border=false&layout=compact&langs_count=8))
 
 ---
 
