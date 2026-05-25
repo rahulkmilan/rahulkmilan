@@ -65,15 +65,11 @@ Not just a CRUD app — built to handle concurrent booking conflicts, payment ra
 
 ---
 
-## 💻 Top Languages
-
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkmilan&theme=dark&hide_border=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkmilan&theme=dark&hide_border=false&layout=compact&langs_count=8))
-
----
-
 ## 🎨 Other Work
-
+ 
 Also designed and edited **HORIZON**, a college tech magazine (Vol 5 & Vol 7), covering topics like AI, green computing, cybersecurity and the metaverse. Solo layout and cover design work in Canva.
+ 
+[Vol 5 →](https://drive.google.com/file/d/1woT1pfvZtl2yIR_THeE4TaGz3sYs38TC/view?usp=sharing) · [Vol 7 →](https://drive.google.com/file/d/1hZLZhuUVxMVgZ9PqapzgzodZEPt5SQj_/view?usp=sharing)
 
 ---
 
